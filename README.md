@@ -21,13 +21,13 @@ Skills:  HTML / CSS / PHP / C++ / Dart / Java / Flutter / Firebase / SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mynulyt)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynultt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynulyt)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mynultt&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mynulyt&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mynultt/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mynultt)  
+![GitHub metrics](https://metrics.lecoq.io/mynulyt)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mynultt)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mynulyt)  
 
