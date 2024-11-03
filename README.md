@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mynul Alm
+### Hi, I'm Mynul Alm
 #### Flutter Developer | Mobile App | Android | iOS | UI/UX | Firebase
 ![Flutter Developer | Mobile App | Android | iOS | UI/UX | Firebase](https://www.canva.com/design/DAGVQp_4cAA/f7hwbhwymFMXdaBBL2vrFQ/edit?utm_content=DAGVQp_4cAA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
