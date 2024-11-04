@@ -1,6 +1,6 @@
 ### Hi, I'm Mynul Alm
 #### Flutter Developer | Mobile App | Android | iOS | UI/UX | Firebase
-![Flutter Developer | Mobile App | Android | iOS | UI/UX | Firebase](https://drive.google.com/file/d/1SO_7Kf3ZgzOsmEPwcZAZDYbXCgSvGR70/view?usp=sharing)
+![(https://drive.google.com/file/d/1SO_7Kf3ZgzOsmEPwcZAZDYbXCgSvGR70/view?usp=sharing)]
 
 AS a Flutter developer, I have experience in Android and IOS app development. I have a specialty in REST API integration. I can also provide services for publishing app on the Google Palystore. My skill and experience make me a valuable asset to any team looking for new challenges to improve my skills and deliver the best results for my clients. I have also worked as a freelancer, which has allowed me to again a diverse range of experience working with different clients and projects.
 
