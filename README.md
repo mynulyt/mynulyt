@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Mynul Alam
+####Hi, I'm Mynul Alam
 #### Flutter Developer | Dart | Mobile App | Android | iOS | UI/UX | Firebase
 ![Flutter Developer | Dart | Mobile App | Android | iOS | UI/UX | Firebase](https://www.linkedin.com/in/mynul-alam-362231230/overlay/background-image/)
 
