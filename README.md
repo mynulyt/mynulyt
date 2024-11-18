@@ -4,7 +4,7 @@
 
 I am an experienced Flutter developer with expertise in building cross-platform mobile applications for both Android and iOS. Specializing in REST API integration, I design efficient, high-performance apps that seamlessly connect with backend services. Additionally, I assist clients with publishing their apps on the Google Play Store, ensuring a smooth launch process. With a strong background in freelance work, I’ve gained diverse experience across various industries, delivering tailored solutions that meet client needs and exceed expectations. I am passionate about staying on top of the latest mobile development trends, continuously improving my skills to provide the best results.
 
-Skills: HTML / CSS / PHP / C++ / Dart / Java / Flutter / Firebase / SQL
+Skills: HTML / CSS / PHP / C / C++ / Dart / Java / Flutter / Firebase / SQL
 
 - 🔭 I’m currently working on Fiverr & Upwork 
 - 🌱 I’m currently learning Flutter ML kit 
