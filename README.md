@@ -1,6 +1,6 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQFAfsEyPAXNkg/profile-displaybackgroundimage-shrink_200_800/0/1687927321378?e=1712793600&v=beta&t=Z9VEV5KPPl1fOVlLNePBDHn4dmT9G44OsEn3VYYfHtA)
+![Banner]https://pbs.twimg.com/profile_banners/1853330970679848960/1740941402/1500x500)
 
-# **Hey there! 👋 I'm Mainul Alam**
+# **Hey there! 👋 I'm Mynul Alam**
 
 🚀 **Full-Stack Flutter Developer | Software Engineer in the Making**  
 
