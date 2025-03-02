@@ -1,4 +1,4 @@
-![Banner]https://pbs.twimg.com/profile_banners/1853330970679848960/1740941402/1500x500)
+![Banner](https://pbs.twimg.com/profile_banners/1853330970679848960/1740941402/1500x500)
 
 # **Hey there! 👋 I'm Mynul Alam**
 
@@ -21,9 +21,11 @@ I love building **cross-platform applications** that are fast, scalable, and use
 ✔ **Problem-Solving & Debugging** – Making apps run seamlessly.  
 
 ## **📊 GitHub Stats & Achievements**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ## **🛠️ Languages & Tools**
 <p align="left">
