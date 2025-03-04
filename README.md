@@ -1,10 +1,10 @@
-### Hey, I'm Mynul Alam
-#### Full-Stack Flutter Developer | Software Engineer in the Making
+## Hey, I'm Mynul Alam
+### Full-Stack Flutter Developer | Software Engineer in the Making
 ![Full-Stack Flutter Developer | Software Engineer in the Making](https://pbs.twimg.com/profile_banners/1853330970679848960/1740941402/1500x500)
 
 I love building **cross-platform applications** that are fast, scalable, and user-friendly. Whether it's **mobile, web, or backend**, I ensure everything runs smoothly with clean and efficient code. Passionate about **problem-solving, UI/UX design, and backend logic**, I strive to create impactful software solutions. 
 
-Skills: <br> ```yaml 💻 Languages:      HTML | CSS | PHP | C | C++ | Dart | Java   📱 Frameworks:     Flutter   🛠️ Databases:     Firebase | SQL   🔗 Backend:        REST APIs | Authentication | Cloud Firestore   ```
+**🛠️ Tools & Technologies**:`yaml 💻 Languages:      HTML | CSS | PHP | C | C++ | Dart | Java   📱 Frameworks:     Flutter   🛠️ Databases:     Firebase | SQL   🔗 Backend:        REST APIs | Authentication | Cloud Firestore   ```
 
 - 🔭 I’m currently working on Flutter Developer 
 - 🌱 I’m currently learning Flutter ML Kit, AI, CP 
